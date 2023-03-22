@@ -4,7 +4,7 @@ maeil : Routine projects that are programmed daily
 말 그대로 매일 프로그래밍하는 프로젝트입니다. 
 
 1학년 1학기 : python 3 or C
-(추후 추가 예정)
+(다음 학기는 추후 추가 예정)
 
 본 소스코드의 저작권은 임규연 (lky473736)에게 있습니다.
 
