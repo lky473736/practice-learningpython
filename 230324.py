@@ -1,5 +1,6 @@
 # 임규연 (lky473736)
 # AlphaMech_
+# 230324 : hello 
 
 A = 'hello'
 print (A)
