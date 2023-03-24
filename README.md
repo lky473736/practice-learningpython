@@ -1,7 +1,7 @@
 # project-maeil
 maeil : Routine projects that are programmed daily
 
-말 그대로 매일 프로그래밍하는 프로젝트입니다. 
+말 그대로 매일 프로그래밍하는 프로젝트입니다. 간단하게 프로그래밍 연습하는 공간입니다.
 
 1학년 1학기 : python 3 or C
 (다음 학기는 추후 추가 예정)
