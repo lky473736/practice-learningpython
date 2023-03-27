@@ -1,5 +1,5 @@
 # practice-learningpython
-maeil : Routine projects that are programmed daily
+to practice the python
 
 파이썬 연습장입니다. learningpython Repository 복습용입니다.
 
