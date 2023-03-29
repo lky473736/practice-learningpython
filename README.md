@@ -1,5 +1,5 @@
 # practice-learningpython
-to practice the python
+to practice the 'learningpython'
 
 파이썬 연습장입니다. learningpython 복습용 repository 입니다.  
 
@@ -11,9 +11,8 @@ to practice the python
 
 -----------------------------
 
-It's literally a daily programming project.
+This is a repository for 'learninpython' review.
 
-1-1 : python 3 or C
-(To be added later)
+Course information: Python (Monday, Tuesday / Professor Oh Ki-wook)
 
 The copyright of this source code belongs to Lim Gyu-yeon (lky473736).
