@@ -1,7 +1,7 @@
 # practice-learningpython
 to practice the 'learningpython'
 
-파이썬 연습장입니다. learningpython 복습용 +  repository 입니다.  
+파이썬 연습장입니다. learningpython 복습용 + 시험공부 repository 입니다.  
 
 learningpython : https://github.com/lky473736/learningpython
 
