@@ -48,7 +48,7 @@ t.speed (0)
 def moverandomly(b) : # 움직임 함수
     t.goto(random.randint(-200, 200), random.randint(-200, 200))
 
-def crazytriangle(a) : # 삼각형 그리기 (매개변수 a)
+def crazytriangle(a) : # 삼각형 그리기 (재귀변수 a)
     for j in range (a) : 
         r = random.randint(1, 255)
         g = random.randint(1, 255)
