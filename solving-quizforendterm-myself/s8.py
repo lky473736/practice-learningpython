@@ -1,4 +1,4 @@
-# s6~s7 : 건너뜀 (재미없어 보임)
+# s6~s7 : 건너뜀 
 
 parentnum = 0
 childnum = 0
